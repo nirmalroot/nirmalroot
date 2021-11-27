@@ -14,7 +14,7 @@
 <a href="https://twitter.com/nirmalroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nirmalroot" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nirmalroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmalroot" height="30" width="40" /></a>
 <a href="https://instagram.com/nirmalroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirmalroot" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uco0urscs1xawiww7yecm0ug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/UCo0UrsCs1xaWIwW7yEcm0Ug" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uco0urscs1xawiww7yecm0ug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/channel/UCo0UrsCs1xaWIwW7yEcm0Ug" height="30" width="40" /></a>
 <a href="https://discord.gg/nirmalroot#1350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nirmalroot#1350" height="30" width="40" /></a>
 </p>
 

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nirmal</h1>
-<h3 align="center">Linux user | penetration tester | embedded developer</h3>
+<h3 align="center">Linux user | penetration tester | embedded develope</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmalroot&label=Profile%20views&color=0e75b6&style=flat" alt="nirmalroot" /> </p>
 
+- 🔭 I’m currently working on **Tvc flight computer**
 
-
-- 🔭 I’m currently working on **tvc flight computer**
+- 🤝 I’m looking for help with **kalman filter**
 
 - 📫 How to reach me **nirmalroot1@gmail.com**
 
@@ -14,6 +14,8 @@
 <a href="https://twitter.com/nirmalroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nirmalroot" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nirmalroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmalroot" height="30" width="40" /></a>
 <a href="https://instagram.com/nirmalroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirmalroot" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uco0urscs1xawiww7yecm0ug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uco0urscs1xawiww7yecm0ug" height="30" width="40" /></a>
+<a href="https://discord.gg/nirmalroot#1350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nirmalroot#1350" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
